@@ -1,0 +1,6 @@
+C:\Users\joaqu\source\repos\InfernosGameInicio\Objetos\bin\Debug\Objetos.dll
+C:\Users\joaqu\source\repos\InfernosGameInicio\Objetos\bin\Debug\Objetos.pdb
+C:\Users\joaqu\source\repos\InfernosGameInicio\Objetos\obj\Debug\Objetos.csproj.AssemblyReference.cache
+C:\Users\joaqu\source\repos\InfernosGameInicio\Objetos\obj\Debug\Objetos.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\source\repos\InfernosGameInicio\Objetos\obj\Debug\Objetos.dll
+C:\Users\joaqu\source\repos\InfernosGameInicio\Objetos\obj\Debug\Objetos.pdb
