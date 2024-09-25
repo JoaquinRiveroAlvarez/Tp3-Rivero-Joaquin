@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\joaqu\\source\\repos\\InfernosGameInicio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75D29835-ABD5-46E4-8625-8A8140DC4593}|..\\Libro1\\TP3Program\\TP3Program.csproj|c:\\users\\joaqu\\source\\repos\\libro1\\tp3program\\infernosinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{75D29835-ABD5-46E4-8625-8A8140DC4593}|..\\Libro1\\TP3Program\\TP3Program.csproj|c:\\users\\joaqu\\source\\repos\\libro1\\tp3program\\frminfernosinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75D29835-ABD5-46E4-8625-8A8140DC4593}|..\\Libro1\\TP3Program\\TP3Program.csproj|c:\\users\\joaqu\\source\\repos\\libro1\\tp3program\\infernospag2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{75D29835-ABD5-46E4-8625-8A8140DC4593}|..\\Libro1\\TP3Program\\TP3Program.csproj|c:\\users\\joaqu\\source\\repos\\libro1\\tp3program\\frminfernosgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75D29835-ABD5-46E4-8625-8A8140DC4593}|..\\Libro1\\TP3Program\\TP3Program.csproj|c:\\users\\joaqu\\source\\repos\\libro1\\tp3program\\infernospag2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75D29835-ABD5-46E4-8625-8A8140DC4593}|..\\Libro1\\TP3Program\\TP3Program.csproj|c:\\users\\joaqu\\source\\repos\\libro1\\tp3program\\frminfernosgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75D29835-ABD5-46E4-8625-8A8140DC4593}|..\\Libro1\\TP3Program\\TP3Program.csproj|c:\\users\\joaqu\\source\\repos\\libro1\\tp3program\\infernosinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75D29835-ABD5-46E4-8625-8A8140DC4593}|..\\Libro1\\TP3Program\\TP3Program.csproj|c:\\users\\joaqu\\source\\repos\\libro1\\tp3program\\frminfernosinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,35 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmInfernosInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joaqu\\source\\repos\\Libro1\\TP3Program\\frmInfernosInicio.cs",
+              "RelativeDocumentMoniker": "..\\Libro1\\TP3Program\\frmInfernosInicio.cs",
+              "ToolTip": "C:\\Users\\joaqu\\source\\repos\\Libro1\\TP3Program\\frmInfernosInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Libro1\\TP3Program\\frmInfernosInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:42:40.39Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "InfernosInicio.cs",
-              "DocumentMoniker": "C:\\Users\\joaqu\\source\\repos\\Libro1\\TP3Program\\InfernosInicio.cs",
-              "RelativeDocumentMoniker": "..\\Libro1\\TP3Program\\InfernosInicio.cs",
-              "ToolTip": "C:\\Users\\joaqu\\source\\repos\\Libro1\\TP3Program\\InfernosInicio.cs",
-              "RelativeToolTip": "..\\Libro1\\TP3Program\\InfernosInicio.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Title": "frmInfernosInicio.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\source\\repos\\Libro1\\TP3Program\\frmInfernosInicio.cs",
+              "RelativeDocumentMoniker": "..\\Libro1\\TP3Program\\frmInfernosInicio.cs",
+              "ToolTip": "C:\\Users\\joaqu\\source\\repos\\Libro1\\TP3Program\\frmInfernosInicio.cs",
+              "RelativeToolTip": "..\\Libro1\\TP3Program\\frmInfernosInicio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T04:22:15.136Z",
-              "IsPinned": true,
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "InfernosPag2.cs",
-              "DocumentMoniker": "C:\\Users\\joaqu\\source\\repos\\Libro1\\TP3Program\\InfernosPag2.cs",
-              "RelativeDocumentMoniker": "..\\Libro1\\TP3Program\\InfernosPag2.cs",
-              "ToolTip": "C:\\Users\\joaqu\\source\\repos\\Libro1\\TP3Program\\InfernosPag2.cs",
-              "RelativeToolTip": "..\\Libro1\\TP3Program\\InfernosPag2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAArAAAAAAAAAA==",
+              "Title": "frmInfernosGame.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\source\\repos\\Libro1\\TP3Program\\frmInfernosGame.cs",
+              "RelativeDocumentMoniker": "..\\Libro1\\TP3Program\\frmInfernosGame.cs",
+              "ToolTip": "C:\\Users\\joaqu\\source\\repos\\Libro1\\TP3Program\\frmInfernosGame.cs",
+              "RelativeToolTip": "..\\Libro1\\TP3Program\\frmInfernosGame.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwJcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T03:49:04.229Z",
               "EditorCaption": ""
@@ -58,25 +69,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "InfernosPag2.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\joaqu\\source\\repos\\Libro1\\TP3Program\\InfernosPag2.cs",
-              "RelativeDocumentMoniker": "..\\Libro1\\TP3Program\\InfernosPag2.cs",
-              "ToolTip": "C:\\Users\\joaqu\\source\\repos\\Libro1\\TP3Program\\InfernosPag2.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\Libro1\\TP3Program\\InfernosPag2.cs [Dise\u00F1o]",
+              "Title": "frmInfernosGame.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joaqu\\source\\repos\\Libro1\\TP3Program\\frmInfernosGame.cs",
+              "RelativeDocumentMoniker": "..\\Libro1\\TP3Program\\frmInfernosGame.cs",
+              "ToolTip": "C:\\Users\\joaqu\\source\\repos\\Libro1\\TP3Program\\frmInfernosGame.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Libro1\\TP3Program\\frmInfernosGame.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T03:36:41.039Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "InfernosInicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\joaqu\\source\\repos\\Libro1\\TP3Program\\InfernosInicio.cs",
-              "RelativeDocumentMoniker": "..\\Libro1\\TP3Program\\InfernosInicio.cs",
-              "ToolTip": "C:\\Users\\joaqu\\source\\repos\\Libro1\\TP3Program\\InfernosInicio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\Libro1\\TP3Program\\InfernosInicio.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T03:35:35.192Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

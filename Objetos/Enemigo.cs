@@ -25,12 +25,16 @@ namespace Objetos
         public string mostrarInfo()
         {
             
-            return $"Nombre: {nombre}\n Tipo: {tipoEnemigo}\n Vida: {vidaEnemigo}\n Daño: {danoEnemigo}";
+            return $" Nombre: {nombre}\n Tipo: {tipoEnemigo}\n Vida: {vidaEnemigo}\n Daño: {danoEnemigo}";
         }
         public string Atacar( Personaje personaje)
         {
             personaje.vida -= danoEnemigo;
-            return $"{nombre} infligio {danoEnemigo} de daño con su ataque a {personaje.nombre}\nTu personaje ahora tiene {personaje.vida} de vida";
+            if( personaje.vida < 0)
+            {
+                personaje.vida = 0;
+            }
+            return $"{nombre} infligio {danoEnemigo} de daño con su ataque a {personaje.nombre}\n, ahora tu personaje tiene {personaje.vida} de vida";
         }
     }
 }

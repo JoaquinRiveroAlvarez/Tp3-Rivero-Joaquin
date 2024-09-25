@@ -17,11 +17,20 @@
         }
         public void Curarse()
         {
+            int cura = 20;
+            while ( cura > 0)
+            {
+                cura--;
+                if ( vida < 100)
+                {
+                    vida++;
+                }
+            }
 
         }
         public string MostrarInfoPersonaje()
         {
-            return $"Nombre: {nombre}\n Sexo: {sexo}\n Vida: {vida}\n Tipo: {tipoPersonaje}";
+            return $" Nombre: {nombre}\n Sexo: {sexo}\n Vida: {vida}\n Tipo: {tipoPersonaje}\n Daño del Arma: {arma.dano}\n Poción: +25 de vida";
         }
     }
 }

@@ -20,13 +20,17 @@ namespace Objetos
         }
         public string mostrarArma()
         {
-            return $"Nombre: {nombre}\n Calidad: {calidad}\n Descripción: {descripcion}\n Daño: {dano}";
+            return $" Nombre: {nombre}\n Calidad: {calidad}\n Descripción: {descripcion}\n Daño: {dano}";
         }
         
         public string Atacar(Enemigo enemigo, Personaje personaje)
         {
             enemigo.vidaEnemigo -= dano;
-            return $"{personaje.nombre} infligio {dano} de daño con su ataque a {enemigo.nombre}\nEl enemigo ahora tiene {enemigo.vidaEnemigo} de vida";
+            if(enemigo.vidaEnemigo < 0)
+            {
+                enemigo.vidaEnemigo = 0;
+            }
+            return $"{personaje.nombre} infligio {dano} de daño con su ataque a {enemigo.nombre}\n, ahora el enemigo tiene {enemigo.vidaEnemigo} de vida";
         }
     }
 }
